@@ -1,4 +1,4 @@
-library(dplyr)
+# My important script to access data
 
-# Placeholder
-# Another placeholder
+myPasswords <- read.csv(file="passwords.csv", header=TRUE, sep=",", stringsAsFactors = FALSE)
+

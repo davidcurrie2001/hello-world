@@ -1,7 +1,7 @@
 # hello-world
 
 I am making a change to this file  
-I am making another change to this file! 
-Changes! 
-More and more changes!
+I am making another change to this file!  
+Changes!  
+More and more changes! 
 

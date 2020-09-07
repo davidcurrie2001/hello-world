@@ -2,3 +2,4 @@
 
 myPasswords <- read.csv(file="passwords.csv", header=TRUE, sep=",", stringsAsFactors = FALSE)
 
+mySpecialNumber <- 1
